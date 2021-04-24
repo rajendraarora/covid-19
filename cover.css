@@ -108,3 +108,18 @@ body {
 .mastfoot {
   color: rgba(255, 255, 255, .5);
 }
+
+.covid-icon {
+    float: left;
+    height: 50px;
+    width: 50px;
+}
+
+.icon-covid {
+    float: left;
+}
+
+.text-covid {
+    float: right;
+    margin: 8px;
+}
